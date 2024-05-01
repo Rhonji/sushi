@@ -11,11 +11,6 @@
   and (min-resolution: 192dpi) { 
 }
 
-@media (max-width: 768px) {
-    .spaced-text {
-        letter-spacing: 1em; 
-    }
-}
 *{
     margin: 0;
     padding: 0;
